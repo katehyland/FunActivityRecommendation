@@ -1,0 +1,11 @@
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.deps.json
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.runtimeconfig.json
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.runtimeconfig.dev.json
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.dll
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/bin/Debug/netcoreapp2.1/FunRecommendations.pdb
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.csprojAssemblyReference.cache
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.csproj.CoreCompileInputs.cache
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.AssemblyInfoInputs.cache
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.AssemblyInfo.cs
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.dll
+/Users/khyland/Documents/Projects/FunRecommendations/FunRecommendations/obj/Debug/netcoreapp2.1/FunRecommendations.pdb
